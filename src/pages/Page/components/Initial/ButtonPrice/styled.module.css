@@ -1,0 +1,26 @@
+#container {
+  display: flex;
+  margin-top: 30px;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+#container button {
+  cursor: pointer;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: rgb(145, 181, 222);
+  border-radius: 30px;
+  width: 200px;
+  height: 50px;
+  border: none;
+}
+
+#container button:hover {
+  transition: 0.3s;
+  background-color: rgb(145, 181, 222);
+  -webkit-box-shadow: -1px -1px 20px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px -1px 20px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px -1px 20px 0px rgba(0, 0, 0, 0.75);
+}
