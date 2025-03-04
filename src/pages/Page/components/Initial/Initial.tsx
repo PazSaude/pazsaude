@@ -22,7 +22,7 @@ const Initial = () => {
   return (
     <div id={styled.container}>
       <div id={styled.containerInfo}>
-        <h1>Consultoria no ramo de assistência médica e vr</h1>
+        <h1>Consultoria no ramo de Seguro Saúde e Seguro de Vida</h1>
         <p>
           Profissionais qualificados, atendimento personalizado e as melhores
           opções do mercado.

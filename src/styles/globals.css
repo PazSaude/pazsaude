@@ -12,3 +12,8 @@ a {
 li {
   cursor: pointer;
 }
+
+html {
+  background: rgb(2,0,36);
+  background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 20%, rgba(255,255,255,1) 42%, rgba(233,245,255,1) 58%, rgba(211,235,254,1) 67%, rgba(214,229,241,1) 73%, rgba(153,205,246,1) 83%);
+}
